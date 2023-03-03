@@ -1,0 +1,7 @@
+<creditCardInfoRequest>
+  <systemName>{systemName}</systemName>
+  <systemLocation>{systemLocation}</systemLocation>
+  <customerId>{customerId}</customerId>
+  <uniqueId>{uniqueId}</uniqueId>
+  <cardNumber>{cardNumber}</cardNumber>
+</creditCardRequest>

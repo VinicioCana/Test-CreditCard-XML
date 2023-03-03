@@ -1,0 +1,16 @@
+<creditCardInfoResponse>
+  <systemName>{systemName}</systemName>
+  <systemLocation>{systemLocation}</systemLocation>
+  <cardNumber>{cardNumber}</cardNumber>
+  <customerId>{customerId}</customerId>
+  <uniqueId>{uniqueId}</uniqueId>
+  <expirationDate>{expirationDate}</expirationDate>
+  <cardType>{cardType}</cardType>
+  <nameOnCard>{nameOnCard}</nameOnCard>
+  <address>
+    <street>{street}</street>
+    <city>{city}</city>
+    <state>{state}</state>
+    <zipCode>{zipCode}</zipCode>
+  </address>
+</creditCardInfo>
